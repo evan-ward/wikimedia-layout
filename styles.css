@@ -1,1 +1,27 @@
+.container {
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+	font-family: sans-serif;
+	margin-bottom: 200px;
+}
 
+.intro {
+	font-size: 1.4em;
+}
+
+.right {
+	text-align: right;
+}
+
+.image-row {
+
+}
+
+.image-row ul li {
+	display: inline-block;
+	width: 150px;
+	height: 60px;
+	margin: 35px;
+	text-align: center;
+}
